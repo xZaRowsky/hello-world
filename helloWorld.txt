@@ -1,5 +1,6 @@
 Hello World!
 
+********************************************
 Just testing how GitHub and GitKraken works.
-
-helloWorld ver. 0.0.2
+********************************************
+helloWorld ver. 0.1.1
