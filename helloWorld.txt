@@ -5,4 +5,4 @@ Just testing how GitHub and GitKraken works.
 ********************************************
 
 
-helloWorld ver. 0.3.1a
+helloWorld ver. 0.3.1b
